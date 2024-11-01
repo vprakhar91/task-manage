@@ -78,7 +78,7 @@ Before you begin contributing to this project, make sure you have the following 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Puskar-Roy/Task-Management-Web
+   git clone [https://github.com/vprakhar91/task-manage.git]
    ```
 2. **Install Dependencies:**
    ```bash
