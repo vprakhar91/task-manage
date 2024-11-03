@@ -102,23 +102,6 @@ This section highlights the key frameworks and libraries that form the foundatio
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-   
-## Contributing 🌟   
-### Making Contributions
-
-We welcome and appreciate contributions from the community ❤️! Here's how you can contribute:
-
-- **Open Issues:** Check for open issues or create a new one to start discussions.
-- **Fork the Repository:** Fork the project to your own GitHub account.
-- **Create Pull Request:** Make changes in your fork and submit a pull request.
-
-### Welcome Contributors!
-
-🚀 Thank you for considering contributing to this project! Your involvement makes this template even better. Feel free to explore the code, share your ideas, and make improvements ✌️.
-
-🌟 Don't hesitate to reach out if you have any questions or need assistance. Together, let's make this project amazing!🟩
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
