@@ -49,17 +49,6 @@ Task Management Website + Mobile App</h3>
 
 
 
-### 3. Mobile App and Responsive Design
-
-#### Mobile App
-
-![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996674/5_dndm7s.png)
-
-- Github Repo of Android App
-```bash
-https://github.com/Puskar-Roy/Task-Management-App
-```
-
 #### Responsive Design
 
 ![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996651/4_bmgkfh.png)
